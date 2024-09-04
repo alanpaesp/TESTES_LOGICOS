@@ -1,0 +1,9 @@
+//INDICE recebe o valor 12
+//SOMA recebe o valor 0
+//K recebe o valor 1
+Enquanto K for menor que INDICE
+//K é incrementado em 1
+//SOMA é incrementada com o valor atual de K
+Soma = (n * (n + 1)) / 2
+Soma = (12 * (12 + 1)) / 2 = 78
+SOMA será 78
